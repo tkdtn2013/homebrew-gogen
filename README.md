@@ -11,3 +11,8 @@ brew install gogen
 ```bash
 brew uninstall gogen
 ```
+
+# Usage
+```bash
+gogen create [projectName]
+```
